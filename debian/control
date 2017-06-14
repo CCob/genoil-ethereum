@@ -1,0 +1,15 @@
+Source: ethminer-genoil
+Section: science
+Priority: extra
+Maintainer: CCob <CCob@users.noreply.github.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: <insert the upstream URL, if relevant>
+Vcs-Git: https://github.com/CCob/genoil-ethereum.git
+Vcs-Browser: https://github.com/CCob/genoil-ethereum
+
+Package: ethminer-genoil
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Genoil's Ethereum Miner
+ Genoil's port of the Ethereum miner which supports CUDA and OpenGL mining.

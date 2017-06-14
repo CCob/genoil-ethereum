@@ -1,0 +1,5 @@
+ethminer-genoil (1.1.7-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- ceri <CCob@users.noreply.github.com>  Wed, 14 Jun 2017 10:23:44 +0100
